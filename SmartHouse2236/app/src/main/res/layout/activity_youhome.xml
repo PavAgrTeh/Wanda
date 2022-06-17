@@ -32,6 +32,7 @@
         android:layout_height="48dp"
         android:layout_marginStart="128dp"
         android:layout_marginBottom="25dp"
+        android:contentDescription="@string/one"
         android:onClick="perehod14"
         app:layout_constraintBottom_toBottomOf="@+id/imageView9"
         app:layout_constraintStart_toStartOf="@+id/imageView9"
